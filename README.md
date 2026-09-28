@@ -1,1 +1,7 @@
-# CO2402_Advanced-Programming-with-C-_Assignment_1
+# CO2402 Advanced Programming with C++ - Assignment 1
+
+University of Lancashire Coursework
+
+Module: CO2402 Advanced Programming with C++
+
+Grade Achieved: 94%
